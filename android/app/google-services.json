@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "948553954946",
+    "firebase_url": "https://moviebookingapp-75525-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "moviebookingapp-75525",
+    "storage_bucket": "moviebookingapp-75525.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948553954946:android:b1a2509a48da94dc65669b",
+        "android_client_info": {
+          "package_name": "com.example.movie_booking_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "948553954946-36k1fg7i4ch13hm5dfus7r74turi96v0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.movie_booking_app",
+            "certificate_hash": "a8edc8bd2c8e310cab3a1c3d759546aec79550c9"
+          }
+        },
+        {
+          "client_id": "948553954946-v5si0o0s2lm9snuhodlalieuhesvmlnu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIOouVT9oIeW2NAhmzphuKgMzl7EN-wg4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "948553954946-v5si0o0s2lm9snuhodlalieuhesvmlnu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "948553954946-480cu3260uaud0m7n6uu9javl1o36l4e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.movieBookingApp.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
